@@ -12,3 +12,4 @@ Fonctions de base :
 - Possibilité de sauvegarder pour reprendre la partie plus tard exactement au point où on l'a laissée
 - Enregistrement de la solution quand on réussit un tableau.
 
+Possibilité de générer une documentation Doxygen avec le Doxyfile
